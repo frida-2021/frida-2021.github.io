@@ -46,7 +46,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     </details>
   * 5:40pm to 5:50pm: break
   * 5:50pm to 6:30pm: [Karem Sakallah](https://web.eecs.umich.edu/~karem/)
-  * 6:30pm to 7:10pm: [Roopsha Samantha](https://www.cs.purdue.edu/homes/roopsha/)
+  * 6:30pm to 7:10pm: [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/)
   * 7:10pm to 8:00pm: discussion, maybe in breakout rooms
 
 
