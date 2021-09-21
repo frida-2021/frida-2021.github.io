@@ -36,6 +36,9 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
   * 7:10pm to 8:00pm: discussion, maybe in breakout rooms
 * Friday, October 8th
   * 4pm to 5pm: Keynote by [Andreas Podelski](https://swt.informatik.uni-freiburg.de/staff/podelski)
+    <details>
+    <summary>Proof Spaces and Operational Correctness Arguments</summary>
+    </details>
   * 5pm to 5:40pm: [Sreeja S Nair](https://sreeja.github.io/), LIP6, Sorbonne Université, and Inria, Paris, France
     <details>
     <summary>Inferring Inductive Invariants from Phase Structures  (click to expand the abstract)</summary>
