@@ -44,7 +44,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
 * Friday, October 8th
   * 4pm to 5pm: Keynote by [Andreas Podelski](https://swt.informatik.uni-freiburg.de/staff/podelski)
     <details>
-    <summary>Proof Spaces and Operational Correctness Arguments</summary>
+    <summary>Proof Spaces and Operational Correctness Arguments <br> (joint work with Azadeh Farzan and Zachary Kincaid)</summary>
     </details>
   * 5pm to 5:40pm: [Sreeja S Nair](https://sreeja.github.io/), LIP6, Sorbonne Université, and Inria, Paris, France
     <details>
