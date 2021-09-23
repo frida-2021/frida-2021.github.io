@@ -56,7 +56,17 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     </details>
   * 5:40pm to 5:50pm: break
   * 5:50pm to 6:30pm: [Karem Sakallah](https://web.eecs.umich.edu/~karem/)
-  * 6:30pm to 7:10pm: [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/)
+  * 6:30pm to 7:10pm: [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University
+    <details>
+    <summary>Taming Unbounded Distributed Systems with Modular, Bounded Verification (click to expand the abstract)</summary>
+      <br>
+      <p>
+      Modern distributed services are typically built in a modular fashion using core distributed protocols as building blocks. The ubiquity of some of these building blocks has sparked several valiant verification efforts for them in the last decade. Oddly, there have been far fewer verification efforts that go beyond core protocols and target distributed services built on top of such core protocols.  In our Discover[i] project, we seek to develop modular, scalable, fully-automated verification approaches for distributed systems that mimic their modular design. In particular, we advocate an approach based on assuming that the underlying core protocols are verified separately and encapsulating their complexities within cleanly-defined abstractions.
+      </p>
+      <p>
+      In this talk, I will present QuickSilver, a modeling and verification framework for distributed systems built on top of verified distributed agreement protocols such as consensus. I will show how our encoding of agreement protocols facilitates decidable and scalable verification for a broad class of systems including a datastore, a lock service, a surveillance system, and several other interesting case studies adapted from real-world applications.
+      </p>
+    </details>
   * 7:10pm to 8:00pm: discussion, maybe in breakout rooms
 
 
