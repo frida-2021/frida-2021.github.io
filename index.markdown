@@ -48,7 +48,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     </details>
   * 5pm to 5:40pm: [Sreeja S Nair](https://sreeja.github.io/), LIP6, Sorbonne Université, and Inria, Paris, France
     <details>
-    <summary>Inferring Inductive Invariants from Phase Structures  (click to expand the abstract)</summary>
+    <summary>Exploring the coordination lattice  (click to expand the abstract)</summary>
       <br>
       <p>
       Distributed applications support concurrent operations on their replicas to ensure high availability and low latency. Too much concurrency might violate an application invariant. Verification can say if a distributed application with the given coordination is safe. The required coordination can be implemented in many ways, trading overhead against parallelism. This talk will focus on capturing different dimensions of the subclass of coordination, distributed locks, into a Coordination Lattice. In particular, for a given workload, we look into the impact of a coordination configuration, with granularity, mode, and placement dimensions, on the performance of a distributed application.
