@@ -56,6 +56,25 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     </details>
   * 5:40pm to 5:50pm: break
   * 5:50pm to 6:30pm: [Karem Sakallah](https://web.eecs.umich.edu/~karem/)
+    <details>
+    <summary>Regularity, Quantification, and Hierarchical Strengthening: A New Approach to Verify Distributed Protocols (click to expand the abstract)</summary>
+      <br>
+      <p>
+      Finite-state model checking has made significant advances in the last few years. For example, our AVR hardware model checker for safety properties successfully handled an industrial design containing over 60,000 state bits and was the overall winner in last year's hardware model checking competition. Three main ingredients made this possible: a) highly-scalable SAT and SMT solvers, b) approximate reachability algorithms based on IC3-style incremental induction, and c) equality abstraction of data.
+      </p>
+      <p>
+      Inspired by our work on hardware model checking with AVR, we developed IC3PO, a new verifier that automatically produces quantified inductive invariants proving the correctness of unbounded distributed protocols. IC3PO takes advantage of the spatial and temporal regularity of unbounded protocols to reduce the unbounded verification problem to a sequence of small finite protocol instances (up tp a cutoff size) that incrementally reveal the quantified strengthening assertions needed to establish inductiveness and prove safety.
+      </p>
+      <p>
+      The talk will sketch the IC3 finite incremental induction algorithm and show how it is modified in IC3PO to automatically infer and generalize the quantifier prefixes in the finite strengthening assertions by taking  advantage of spatial and temporal regularity. 
+      </p>
+      <p>
+      IC3PO also takes advantage of the hierarchical specification of complex protocols, such as Lamport's Paxos, using a top-down stepwise invariant strengthening procedure. Using a four-level hierarchy, the talk will conclude by describing how IC3PO automatically produced the same inductive invariant for Paxos as its manually-written proof.
+      </p>
+      <p>
+      There is still much to explore in extending automatic verification to the domain of unbounded protocols. We believe this is a promising first step.
+      </p>
+    </details>
   * 6:30pm to 7:10pm: [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University
     <details>
     <summary>Taming Unbounded Distributed Systems with Modular, Bounded Verification (click to expand the abstract)</summary>
