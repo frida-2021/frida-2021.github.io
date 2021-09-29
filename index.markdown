@@ -40,6 +40,13 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
   * 5:40pm to 5:50pm: break
   * 5:50pm to 6:30pm: [Christopher Goes](https://pluranimity.org/about/)
   * 6:30pm to 7:10pm: [Bernhard Kragl](https://bkragl.github.io/)
+    <details>
+    <summary> The Civl Verifier (click to expand the abstract)</summary>
+      <br>
+      <p>
+      Distributed applications support concurrent operations on their replicas to ensure high availability and low latency. Too much concurrency might violate an application invariant. Verification can say if a distributed application with the given coordination is safe. The required coordination can be implemented in many ways, trading overhead against parallelism. This talk will focus on capturing different dimensions of the subclass of coordination, distributed locks, into a Coordination Lattice. In particular, for a given workload, we look into the impact of a coordination configuration, with granularity, mode, and placement dimensions, on the performance of a distributed application.
+      </p>
+    </details>
   * 7:10pm to 8:00pm: discussion, maybe in breakout rooms
 * Friday, October 8th
   * 4pm to 5pm: Keynote by [Andreas Podelski](https://swt.informatik.uni-freiburg.de/staff/podelski)
