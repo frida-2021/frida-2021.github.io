@@ -44,7 +44,13 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     <summary> The Civl Verifier (click to expand the abstract)</summary>
       <br>
       <p>
-      Distributed applications support concurrent operations on their replicas to ensure high availability and low latency. Too much concurrency might violate an application invariant. Verification can say if a distributed application with the given coordination is safe. The required coordination can be implemented in many ways, trading overhead against parallelism. This talk will focus on capturing different dimensions of the subclass of coordination, distributed locks, into a Coordination Lattice. In particular, for a given workload, we look into the impact of a coordination configuration, with granularity, mode, and placement dimensions, on the performance of a distributed application.
+       Civl is a static verifier for concurrent programs designed around the
+conceptual framework of layered refinement, which views the task
+of verifying a program as a sequence of program simplification steps
+each justified by its own invariant. Civl verifies a layered concurrent
+program that compactly expresses all the programs in this sequence
+and the supporting invariants. In this talk we present the design and
+implementation of the Civl verifier.
       </p>
     </details>
   * 7:10pm to 8:00pm: discussion, maybe in breakout rooms
