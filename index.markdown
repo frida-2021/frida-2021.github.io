@@ -39,6 +39,13 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     </details>
   * 5:40pm to 5:50pm: break
   * 5:50pm to 6:30pm: [Christopher Goes](https://pluranimity.org/about/)
+    <details>
+    <summary>Formal reasoning about privacy and incentive compatibility in zero-knowledge protocol design (click to expand the abstract)</summary>
+      <br>
+      <p>
+      Zero-knowledge proof systems (ZKPs) provide a means by which to separate verification of protocol compliance from contents of protocol interactions, allowing privacy for users of distributed systems with public replicated state, compact proofs of correct behaviour, and recursive proof recombination of sequenced state machine transitions. As a relatively recent entrant into the protocol architecture toolset, however, zero-knowledge proof constructions utilised in distributed systems are not well formalised, both in the sense of formalisation of the arithmetic circuits required by the structure of the proof systems and in the sense of reasoning about gestalt safety properties of protocols which utilise zero-knowledge proofs as components. <br> In this talk, I will outline the design space of zero-knowledge proofs as constituent components of distributed systems, focusing on where they can provide otherwise unobtainable privacy or benefits to asymmetric complexities, then discuss the necessary components of a mature verification landscape in both senses of circuit verification and protocol verification as discussed above. Specifically, I will cover Heliax's development of the dependently-typed language Juvix which can compile to arithmetic circuits and reason about their properties like a proof assistant such as Agda or Coq, discuss our research into zero-knowledge proofs as possible constituent components of incentive-compatible sparse gossip networks and BFT-like consensus algorithms, and enumerate outstanding research questions (of which there are many!)
+      </p>
+    </details>
   * 6:30pm to 7:10pm: [Bernhard Kragl](https://bkragl.github.io/)
     <details>
     <summary> The Civl Verifier (click to expand the abstract)</summary>
