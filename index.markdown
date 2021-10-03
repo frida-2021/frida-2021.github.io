@@ -60,7 +60,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
     <details>
     <summary>A compositional proof of the Mach shootdown algorithm for TLB consistency <br> (joint work with Rupak Majumdar and Andreas Podelski)</summary>
     </details>
-  * 5pm to 5:40pm: [Sreeja S Nair](https://sreeja.github.io/), LIP6, Sorbonne Université, and Inria, Paris, France
+  * 5pm to 5:40pm: [Sreeja S Nair](https://sreeja.github.io/), Adlink Technology Labs, France
     <details>
     <summary>Exploring the coordination lattice  (click to expand the abstract)</summary>
       <br>
