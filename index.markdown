@@ -18,7 +18,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
 * September 7th: website created!
 * September 21st: [Registration to DISC](http://www.disc-conference.org/wp/disc2021/registration/) is open and free for online participants
 
-## Program (tentative)
+## Program
 
 * Monday, October 4th
   * 4pm to 5pm: Keynote by [Julian Loss](https://www.julianloss.com/)
