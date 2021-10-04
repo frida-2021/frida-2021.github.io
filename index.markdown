@@ -29,7 +29,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
       Distributed Consensus is the fundamental problem of agreeing on a common output in a network of pairwise connected parties. It can be studied under various network and setup assumptions that determine the parameters for which a solution exists. Proving security and correctness of consensus algorithms is known to be a subtle and error-prone task. In this talk, we will focus on recent advances in the area of distributed consensus and explain some of the key challenges that arise. We also discuss how tools from formal verification could be helpful to address them.
       </p>
     </details>
-  * 5pm to 5:40pm: [Joseph Tassarotti](http://www.cs.bc.edu/~tassarot/)
+  * 5pm to 5:40pm: [Joseph Tassarotti](http://www.cs.bc.edu/~tassarot/), Boston College
     <details>
     <summary>Modular Verification of Distributed Systems with Grove (click to expand the abstract)</summary>
       <br>
