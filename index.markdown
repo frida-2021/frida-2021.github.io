@@ -21,7 +21,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
 ## Program
 
 * Monday, October 4th
-  * 4pm to 5pm: Keynote by [Julian Loss](https://www.julianloss.com/)
+  * 4pm to 5pm: Keynote by [Julian Loss](https://www.julianloss.com/), CISPA Helmholtz Center for Information Security
     <details>
     <summary>Formal Security Guarantees for Distributed Consensus Algorithms (click to expand the abstract)</summary>
       <br>
