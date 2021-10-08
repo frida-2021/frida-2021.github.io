@@ -69,7 +69,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
       </p>
     </details>
   * 5:40pm to 5:50pm: break
-  * 5:50pm to 6:30pm: [Karem Sakallah](https://web.eecs.umich.edu/~karem/)
+  * 5:50pm to 6:30pm: [Karem Sakallah](https://web.eecs.umich.edu/~karem/), University of Michigan
     <details>
     <summary>Regularity, Quantification, and Hierarchical Strengthening: A New Approach to Verify Distributed Protocols (click to expand the abstract)</summary>
       <br>
