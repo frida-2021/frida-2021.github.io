@@ -141,12 +141,14 @@ they apply to distributed algorithms and systems:
 
 ## Organizers
 
-* Swen Jacobs
+### Main organizers
+* [Giuliano Losa](https://www.losa.fr/) [(email)](mailto:giuliano@losa.fr)
+* [Swen Jacobs](https://www.react.uni-saarland.de/people/jacobs.html)
+### With support of
 * Igor Konnov
 * Joseph Widder
 * Stephan Merz
 * [Marijana Lazić](https://www7.in.tum.de/~lazic/) [(email)](mailto:lazic@in.tum.de)
-* [Giuliano Losa](https://www.losa.fr/) [(email)](mailto:giuliano@galois.com)
 
 ## Previous editions
 
