@@ -18,6 +18,7 @@ The workshop is organized as part of [DISC 2021](http://www.disc-conference.org/
 * September 7th: website created!
 * September 21st: [Registration to DISC](http://www.disc-conference.org/wp/disc2021/registration/) is open and free for online participants
 * The [video recording of Monday's session](https://youtu.be/EzxiDResQUE) is now available
+* The [video recording of Friday's session](https://youtu.be/m8ApDWtmB14) is now available
 
 ## Program
 
